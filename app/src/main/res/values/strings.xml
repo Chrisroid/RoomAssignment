@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Zuri - Room</string>
+    <string name="app_name">Room Assignment</string>
     <string name="phone_number">Phone Number</string>
     <string name="add">Add</string>
     <string name="name">Name</string>
